@@ -1,0 +1,2 @@
+# hotelsApplicationTest
+Zadanie do sprawdzianu
